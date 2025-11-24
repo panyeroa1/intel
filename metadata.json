@@ -1,0 +1,9 @@
+{
+  "name": "EBURON: Central Intelligence",
+  "description": "Unified intelligence layer unifying conversation, visual generation, and grounded data operations. Powered by Gemini 2.5 and 3.0 series.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
